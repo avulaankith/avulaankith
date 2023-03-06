@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avulaankith
-- 👀 I’m interested in AI,ML.
-- 🌱 I’m currently learning Deep Learning,Django.
-- 💞️ I’m looking to collaborate on Computer Vision Projects,Audio Analysis Projects.
+- 👀 I’m interested in AI,ML, Big Data Technologies.
+- 🌱 I’m currently learning Deep Learning,Django, Hadoop and Spark.
+- 💞️ I’m looking to collaborate on Computer Vision Projects,Audio Analysis, Big Data Projects.
 - 📫 How to reach me ...
 
 <!---
