@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Ankith's github stats](https://github-readme-stats.vercel.app/api?username=avulaankith&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)](https://github.com/avulaankith)
