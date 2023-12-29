@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avulaankith
+- 👋 Hi, [I’m Ankith Reddy Avula](https://github.com/avulaankith)
 - 👀 I’m interested in AI, ML, and Big Data Technologies.
 - 🌱 I’m currently learning Deep Learning, Django, Hadoop, and Spark.
 - 💞️ I’m looking to collaborate on Computer Vision Projects, Audio Analysis, and Big Data Projects.
