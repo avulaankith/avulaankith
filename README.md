@@ -1,6 +1,6 @@
 # Hi, I'm Ankith Reddy Avula 👋
 
-Currently pursuing a Masters in Computer Science at the University of Texas, Arlington, with a specialization in Artificial Intelligence, Machine Learning, and Big Data Technologies. My academic and professional journey is dedicated to exploring the depths of Deep Learning, Django, Hadoop, and Spark to enhance my technical prowess.
+I am a Masters grad in Computer Science at the University of Texas, Arlington, with a specialization in Artificial Intelligence, Machine Learning, and Big Data Technologies. Currently working as a Research Assistant at UTA. My academic and professional journey is dedicated to exploring the depths of Deep Learning, Django, Hadoop, and Spark to enhance my technical prowess.
 
 ## 🌐 Explore My Portfolio
 
@@ -70,6 +70,7 @@ Check out my portfolio for a comprehensive overview of my projects, skills, and 
 
 ## Experience 👨‍💼
 
+- **Research Assistant at [University of Texas Arlington](https://www.uta.edu/)** (May 2023 - Present): Worked on Scala Spark comparison study for different spark implementations and NVIDIA RAPIDS implementation in Apache Spark in Scala.
 - **Graduate Teaching Assistant at [University of Texas Arlington](https://www.uta.edu/)** (Aug 2023 - May 2024): Assisted in teaching and grading for courses in Design and Analysis of Algorithms and Cloud Computing and Big Data.
 - **Research Intern at [Samsung India](https://www.samsung.com/in/)** (May 2021 - Nov 2021): Developed an Audio Source separation model using TensorFlow, UNets, and Librosa
 
